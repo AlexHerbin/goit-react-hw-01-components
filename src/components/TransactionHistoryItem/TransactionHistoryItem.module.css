@@ -1,0 +1,6 @@
+.row td {
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(176, 218, 237);
+}
